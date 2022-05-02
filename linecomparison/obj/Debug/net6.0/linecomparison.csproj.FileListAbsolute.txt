@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\linecomparison\linecomparison\bin\Debug\net6.0\linecomparison.exe
+C:\Users\DELL\source\repos\linecomparison\linecomparison\bin\Debug\net6.0\linecomparison.deps.json
+C:\Users\DELL\source\repos\linecomparison\linecomparison\bin\Debug\net6.0\linecomparison.runtimeconfig.json
+C:\Users\DELL\source\repos\linecomparison\linecomparison\bin\Debug\net6.0\linecomparison.dll
+C:\Users\DELL\source\repos\linecomparison\linecomparison\bin\Debug\net6.0\linecomparison.pdb
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.AssemblyInfo.cs
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.dll
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\refint\linecomparison.dll
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.pdb
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\linecomparison.genruntimeconfig.cache
+C:\Users\DELL\source\repos\linecomparison\linecomparison\obj\Debug\net6.0\ref\linecomparison.dll
